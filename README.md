@@ -209,14 +209,6 @@ In `AndroidManifest.xml`:
 
 ---
 
-# LLM Declaration Statement
-
-I used ChatGPT to assist with understanding how to connect a simple local LLM setup using Ollama and Gemma 3 to a Java Android application. The tool was used to help identify the required connection approach, including running Ollama locally, using the Android emulator address `10.0.2.2`, and sending requests from the Java Android app to the Ollama API.
-
-The final implementation, testing, debugging, and integration into the Android project were completed by me.
-
----
-
 # Author
 
 Pamuditha Senadeera
