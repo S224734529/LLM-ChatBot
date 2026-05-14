@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI Chat Bot</string>
+    <string name="welcome">Welcome,</string>
+    <string name="lets_chat">Lets Chat!</string>
+    <string name="username">Username</string>
+    <string name="go">Go</string>
+    <string name="type_message">Type message</string>
+    <string name="send">></string>
+</resources>
